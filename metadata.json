@@ -1,0 +1,6 @@
+{
+  "name": "taka - Hyperledger Fabric Land Registry",
+  "description": "Enterprise Hyperledger Fabric blockchain land registry system featuring role-based access control, public audit trail, local government database integrations, immutable WORM audit logs, MFA, and full GDPR compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
